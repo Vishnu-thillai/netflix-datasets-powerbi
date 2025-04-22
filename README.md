@@ -1,2 +1,3 @@
 # netflix-datasets-powerbi
-Analysis on content on Netflix.
+
+This project is a Power BI dashboard analyzing Netflix shows data.
